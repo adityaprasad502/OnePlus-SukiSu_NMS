@@ -5,3 +5,4 @@
 *.Identifier
 *.orig
 *.rej
+.github/copilot-instructions.md
